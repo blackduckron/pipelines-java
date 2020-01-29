@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rdejong0838/Tutorial/_apis/build/status/blackduckron.pipelines-java?branchName=master)](https://dev.azure.com/rdejong0838/Tutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
